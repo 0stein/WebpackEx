@@ -1,0 +1,2 @@
+# WebpackEx
+practice using webpack
