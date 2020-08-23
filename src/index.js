@@ -1,3 +1,4 @@
+import "./base.css";
 import _ from "lodash";
 
 function component() {
